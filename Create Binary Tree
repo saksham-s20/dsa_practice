@@ -1,4 +1,4 @@
-Here is a full code to create a binary tree in C++;
+// Here is a full code to create a binary tree in C++;
 
 #include<iostream>
 using namespace std;
